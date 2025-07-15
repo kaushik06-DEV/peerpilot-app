@@ -16,4 +16,9 @@ AI-powered academic support platform for intermediate learners
 
 ## Folder Structure
 See `/docs/project-structure.md` for technical layout.
+## Folder Overview
+- frontend/: Mobile app interface
+- backend/: Server logic and AI connections
+- assets/: Images, icons, design files
+- docs/: Notes, sketches, architecture
 
