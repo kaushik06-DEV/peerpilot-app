@@ -16,8 +16,4 @@ AI-powered academic support platform for intermediate learners
 
 ## Folder Structure
 See `/docs/project-structure.md` for technical layout.
-cd peerpilot-app
-mkdir frontend
-mkdir backend
-mkdir assets
-mkdir docs
+
